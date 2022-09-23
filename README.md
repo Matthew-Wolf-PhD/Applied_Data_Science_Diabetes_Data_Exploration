@@ -1,2 +1,2 @@
 # Applied_Data_Science_Diabetes_Data_Exploration
-Exploring Data Analysis and Visualization with Pima Indians Diabetes Dataset
+This dataset was provided by the MIT Applied Data Science Program for data exploration and visualization, focusing on the rate of diabetes in the female Pima Indian popluation.
